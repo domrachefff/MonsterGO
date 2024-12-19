@@ -1,0 +1,6 @@
+framework module Pods_MonsterGO {
+  umbrella header "Pods-MonsterGO-umbrella.h"
+
+  export *
+  module * { export * }
+}
